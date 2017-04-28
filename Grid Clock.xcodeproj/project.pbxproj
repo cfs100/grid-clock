@@ -112,7 +112,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0810;
-				ORGANIZATIONNAME = chrstphrknwtn;
+				ORGANIZATIONNAME = cfs100;
 				TargetAttributes = {
 					3A40066718B53112005F43A6 = {
 						ProvisioningStyle = Automatic;
@@ -253,10 +253,10 @@
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 4699R6ELY7;
+				DEVELOPMENT_TEAM = B3Y7A5A8HN;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.chrstphrknwtn.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_BUNDLE_IDENTIFIER = "br.com.ferreirasilva.caio.Grid-Clock";
 				PRODUCT_NAME = "Grid Clock";
 				WRAPPER_EXTENSION = saver;
 			};
@@ -267,10 +267,10 @@
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 4699R6ELY7;
+				DEVELOPMENT_TEAM = B3Y7A5A8HN;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.chrstphrknwtn.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_BUNDLE_IDENTIFIER = "br.com.ferreirasilva.caio.Grid-Clock";
 				PRODUCT_NAME = "Grid Clock";
 				WRAPPER_EXTENSION = saver;
 			};
